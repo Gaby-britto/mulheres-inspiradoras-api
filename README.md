@@ -11,7 +11,7 @@ O objetivo é fornecer dados que podem ser consumidos por aplicações web, mobi
 
 ## Tecnologias
 
-- Java 21
+- Java 17
 - Spring Boot 3.5
 - Maven
 - REST API
