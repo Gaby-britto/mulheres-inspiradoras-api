@@ -1,4 +1,7 @@
 # Mulheres Inspiradoras - Back-end
+![a-vibrant-product-shot-advertisement-for_ldEQ2Q24SeWK2DkKG5TQNQ_fbDZpQStSa2fRwUZiMkQ5g](https://github.com/user-attachments/assets/122c62a3-73b2-42a7-990a-a8089f541691)
+
+
 
 Este é o back-end do projeto **Mulheres Inspiradoras**, uma API que fornece informações sobre mulheres que marcaram a história com suas contribuições em diversas áreas.  
 
@@ -38,4 +41,30 @@ mulheres-inspiradoras/
   - `Mulher.java <- Modelo da mulher` 
   - `MulheresService.java <- Serviço que fornece a lista`
   - `MulheresController.java <- Controlador REST`
+
+
+---
+
+## Como Rodar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/Gaby-britto/mulheres-inspiradoras-api
+```
+2. Entre na pasta do projeto:
+ ```bash
+cd mulheres-inspiradoras
+```
+3. Compile e rode o projeto:
+```bash
+mvn clean spring-boot:run
+```
+4. Acesse a API:
+
+```bash
+http://localhost:8080/api/mulheres
+```
+---
+
+Gabriele Brito - Desenvolvedora do projeto
 
